@@ -1,5 +1,4 @@
 #Spam Bot Created in Python
-
 import pyautogui
 import time
 
